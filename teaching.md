@@ -1,4 +1,5 @@
 Mathematics
+* MAT 1362 Mathematical reasoning and proofs (Winter 2026 uOttawa)
 * MAT 2150 (assistant) Analysis II (Fall 2021 UQAM)
 * MAT 2250 (assistant) Group theory (Fall 2020 UQAM)
 * MAT 2400 (assistant) Geometry (Fall 2020 UQAM)
